@@ -1,0 +1,8 @@
+{
+  "name": "MediaTerra",
+  "description": "MediaTerra is a premier mediation platform providing professional conflict resolution services through certified mediators and flexible service packages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
